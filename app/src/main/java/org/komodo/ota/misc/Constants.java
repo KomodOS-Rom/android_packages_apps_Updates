@@ -32,7 +32,7 @@ public class Constants {
     public static final long UPDATE_DEFAULT_FREQ = AlarmManager.INTERVAL_HALF_DAY;
     // Build vars
     public static final String CURRENT_DEVICE_NAME = "ro.komodo.device";
-    public static final String CURRENT_VERSION = "org.komodo.version";
+    public static final String CURRENT_VERSION = "ro.modversion";
     public static final String OTA_URL = "https://raw.githubusercontent.com/KomodOS-Rom/OTA/master/%s.json";
     public static final String OTA_VERSION_CODE = "pie";
     // Expressions
